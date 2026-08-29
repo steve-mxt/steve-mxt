@@ -1,8 +1,8 @@
-<<div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Sameer Idrisi
 
-### 🚀 UG Student | Python Developer | Cybersecurity Enthusiast | AI Automation Explorer
+### 🚀 UG Student | Python Learner | Web Development Beginner | Cybersecurity & AI Explorer
 
 <p>
   <a href="https://github.com/steve-mxt">
@@ -26,74 +26,115 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Sameer Idrisi**, a UG student who enjoys learning by building.
+I'm **Sameer Idrisi**, a UG student who enjoys learning technology by building small projects.
 
-I'm currently exploring the intersection of:
+Currently, I'm exploring different areas of technology:
 
-* 🐍 **Python & Software Development**
-* 🔐 **Cybersecurity**
-* 🤖 **AI Automation**
-* 🧠 **AI Agents & Intelligent Systems**
-* 🐧 **Linux & Open Source**
-* 💻 **Problem Solving & Programming**
+* 🐍 **Python & Programming**
+* 🌐 **HTML, CSS & Web Development**
+* 🔐 **Cybersecurity Fundamentals**
+* 🌐 **Networking Basics**
+* 🐧 **Linux**
+* 🤖 **AI & AI Agents**
+* 🗄️ **SQL & Databases**
+* 🐙 **Git & GitHub**
 
-> **Currently:** Learning → Building → Breaking → Fixing → Repeating. 🔥
+> **Learning → Building → Breaking → Fixing → Repeating. 🔥**
 
-I believe the best way to learn technology is to **build real things with it**.
+I believe the best way to learn technology is to **build projects and experiment with what I learn**.
 
 ---
 
-## 🚀 What I'm Currently Learning
+# 📚 What I'm Currently Learning
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🐍 Python
 
 * Python fundamentals
-* Automation
-* Scripting
-* Project development
-* APIs
+* Functions & modules
+* File handling
+* Basic APIs
+* Problem solving
+* Small Python projects
 
 </td>
-<td width="50%">
 
-### 🤖 AI & Automation
+<td width="50%" valign="top">
 
-* AI automation
-* AI agents
-* LLM-powered workflows
-* Intelligent tools
-* Agentic systems
+### 🌐 Web Development
+
+* HTML
+* CSS
+* Website structure
+* CSS styling
+* Responsive design basics
+* Small web projects
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🔐 Cybersecurity
 
-* Linux
-* Networking fundamentals
-* Security concepts
+* Cybersecurity fundamentals
+* Networking basics
+* IP addresses & ports
+* Common network concepts
+* Linux fundamentals
+* Basic security concepts
 * Ethical hacking fundamentals
-* Security automation
 
 </td>
-<td width="50%">
 
-### 💻 Development
+<td width="50%" valign="top">
 
-* Git & GitHub
+### 🤖 AI & AI Agents
+
+* AI fundamentals
+* Understanding LLMs
+* AI agent basics
+* How AI agents work
+* APIs & AI tools
+* Simple AI experiments
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Programming
+
 * C / C++
-* HTML / CSS
-* Linux
-* Databases
+* Programming fundamentals
+* Data structures basics
+* Problem solving
+* Algorithms basics
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+* SQL
+* DBMS fundamentals
+* Queries
+* Tables & relationships
+* Oracle basics
+
+</td>
+
 </tr>
 </table>
 
@@ -109,67 +150,31 @@ I believe the best way to learn technology is to **build real things with it**.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++">
 </p>
 
-### Web
+### Web Development
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3">
 </p>
 
-### Tools & Platforms
+### Cybersecurity & Linux
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="Bash">
+</p>
+
+### Tools & Technologies
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="Bash">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle">
 </p>
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=steve-mxt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-mxt&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages">
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=steve-mxt&hide_border=true" alt="GitHub Contribution Streak">
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steve-mxt&theme=github_dark" alt="GitHub Contribution Activity" width="100%">
-
-</div>
-
----
-
-# 🗓️ Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=steve-mxt&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
-
-</div>
-
----
-
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -182,7 +187,7 @@ I believe the best way to learn technology is to **build real things with it**.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=steve-mxt&repo=project-demo&hide_border=true" alt="project-demo">
 </a>
 
-A beginner Python project and one of my first steps into building projects with Python.
+One of my beginner Python projects where I'm learning how to turn programming concepts into working applications.
 
 **Tech:** Python
 
@@ -194,17 +199,59 @@ A beginner Python project and one of my first steps into building projects with 
 
 <td width="50%" valign="top">
 
-### 🚧 More Projects Coming
+### 🌐 HTML & CSS Mini Project
 
-I'm currently building and experimenting with:
+Currently building small websites while learning the basics of web development.
 
-* 🤖 AI automation tools
-* 🧠 AI agent projects
-* 🔐 Cybersecurity utilities
-* 🐍 Python projects
-* ⚙️ Automation scripts
+Exploring:
 
-More projects will appear here as I build them.
+* 🧱 Website structure
+* 🎨 CSS styling
+* 📱 Responsive layouts
+* 🖥️ Landing pages
+* ✨ Simple UI designs
+
+**Tech:** HTML • CSS
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity Learning
+
+Learning the fundamentals of cybersecurity through practice and experimentation.
+
+Currently exploring:
+
+* 🌐 Networking
+* 🐧 Linux
+* 🔒 Security fundamentals
+* 🔑 Authentication concepts
+* 🛡️ Basic ethical hacking concepts
+
+**Focus:** Learning the fundamentals
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Learning Projects
+
+Exploring the basics of AI and AI agents.
+
+Currently learning:
+
+* 🧠 AI fundamentals
+* 🤖 AI agents
+* 🔗 APIs
+* ⚙️ AI tools
+* 💡 Simple AI-powered ideas
+
+**Focus:** Learning & experimenting
 
 </td>
 
@@ -213,69 +260,98 @@ More projects will appear here as I build them.
 
 ---
 
-# 🏆 GitHub Achievements
+# 🌱 What I'm Exploring
 
-<div align="center">
+### 🐍 Python
 
-<a href="https://github.com/steve-mxt">
-<img src="https://github-profile-trophy.vercel.app/?username=steve-mxt&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies">
-</a>
+Building small programs and projects to improve my programming skills.
 
-</div>
+### 🌐 Web Development
 
----
+Learning HTML and CSS by creating simple websites and UI designs.
 
-# 📚 GitHub Overview
+### 🔐 Cybersecurity
 
-<div align="center">
+Understanding networking, Linux and the basic concepts behind cybersecurity.
 
-<a href="https://github.com/steve-mxt?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories">
-</a>
+### 🤖 Artificial Intelligence
 
-<a href="https://github.com/steve-mxt?tab=stars">
-<img src="https://img.shields.io/badge/Stars-0-181717?style=for-the-badge&logo=github" alt="Stars">
-</a>
+Learning how AI works and exploring the basics of AI agents and LLM-powered applications.
 
-<a href="https://github.com/steve-mxt">
-<img src="https://img.shields.io/github/last-commit/steve-mxt/steve-mxt?style=for-the-badge&logo=github&label=Profile%20README" alt="Last Profile README Commit">
-</a>
+### 🗄️ Databases
 
-</div>
+Practicing SQL and learning how databases are structured and used in applications.
 
 ---
 
-# 🎯 My Current Roadmap
+# 🎯 Learning Goals
+
+My current goals are to:
+
+* Improve my Python skills
+* Build more HTML & CSS projects
+* Learn JavaScript
+* Understand APIs better
+* Learn networking fundamentals
+* Improve my Linux skills
+* Learn cybersecurity fundamentals
+* Understand the basics of ethical hacking
+* Learn more about AI agents
+* Build simple AI-powered projects
+* Improve SQL and database skills
+* Build more real-world projects
+
+---
+
+# 🧠 Currently Exploring
 
 ```text
-Python
-  │
-  ├── Automation
-  │     └── Scripting & Tools
-  │
-  ├── APIs
-  │     └── Real-world Projects
-  │
-  └── AI
-        ├── LLMs
-        ├── AI Automation
-        └── AI Agents
+Programming
+   ├── Python
+   ├── C / C++
+   └── Problem Solving
+
+Web Development
+   ├── HTML
+   ├── CSS
+   └── JavaScript → Learning Next
 
 Cybersecurity
-  │
-  ├── Linux
-  ├── Networking
-  ├── Security Fundamentals
-  └── Security Automation
+   ├── Networking
+   ├── Linux
+   ├── Security Fundamentals
+   └── Ethical Hacking Basics
+
+AI
+   ├── AI Fundamentals
+   ├── LLM Basics
+   └── AI Agents
+
+Databases
+   ├── SQL
+   ├── DBMS
+   └── Oracle
 ```
 
 ---
 
-# 💡 Developer Philosophy
+# 💡 My Learning Philosophy
 
-> **Don't just learn the technology. Build something with it.**
+> **Don't just learn it. Build it. Break it. Fix it. Understand it.**
 
-Every project is an opportunity to understand something I didn't know yesterday.
+I'm still learning and experimenting with different technologies.
+
+Every project helps me understand something new and improve my skills.
+
+---
+
+# 🌟 What I Want to Build
+
+In the future, I want to build projects that combine:
+
+**Python + Web Development + Cybersecurity + AI**
+
+I'm interested in creating useful tools, websites and applications while continuously improving my development and problem-solving skills.
 
 ---
 
@@ -299,6 +375,6 @@ Every project is an opportunity to understand something I didn't know yesterday.
 
 ### ⭐ Thanks for visiting my profile!
 
-**Building my skills one project at a time. 🚀**
+**Learning. Building. Growing. 🚀**
 
 </div>
