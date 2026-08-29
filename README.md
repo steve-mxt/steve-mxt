@@ -399,6 +399,56 @@ From simple beginner projects to more useful real-world applications, my goal is
 
 ---
 
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=steve-mxt&hide_border=true" alt="GitHub Contribution Streak">
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steve-mxt&theme=github_dark" alt="GitHub Contribution Activity" width="100%">
+
+</div>
+
+---
+
+# 🗓️ Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=steve-mxt&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
+
+</div>
+
+---
+
+# 📚 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/steve-mxt?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories">
+</a>
+
+<a href="https://github.com/steve-mxt?tab=stars">
+<img src="https://img.shields.io/badge/Stars-0-181717?style=for-the-badge&logo=github" alt="Stars">
+</a>
+
+<a href="https://github.com/steve-mxt">
+<img src="https://img.shields.io/github/last-commit/steve-mxt/steve-mxt?style=for-the-badge&logo=github&label=Profile%20README" alt="Last Profile README Commit">
+</a>
+
+</div>
+
+---
+
 # 📫 Let's Connect
 
 <div align="center">
