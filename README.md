@@ -26,31 +26,30 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Sameer Idrisi**, a UG student who enjoys learning technology by building small projects.
+I'm **Sameer Idrisi**, a UG student who enjoys learning by building.
 
-Currently, I'm exploring different areas of technology:
+I'm currently exploring the intersection of:
 
-* 🐍 **Python & Programming**
+* 🐍 **Python & Software Development**
 * 🌐 **HTML, CSS & Web Development**
 * 🔐 **Cybersecurity Fundamentals**
-* 🌐 **Networking Basics**
-* 🐧 **Linux**
+* 🌐 **Networking & Linux**
 * 🤖 **AI & AI Agents**
-* 🗄️ **SQL & Databases**
-* 🐙 **Git & GitHub**
+* 🧠 **Problem Solving & Programming**
+* 🗄️ **Databases & SQL**
+* 🐧 **Open Source & Linux**
 
-> **Learning → Building → Breaking → Fixing → Repeating. 🔥**
+> **Currently:** Learning → Building → Breaking → Fixing → Repeating. 🔥
 
-I believe the best way to learn technology is to **build projects and experiment with what I learn**.
+I believe the best way to learn technology is to **build real things with it**.
 
 ---
 
-# 📚 What I'm Currently Learning
+## 🚀 What I'm Currently Learning
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🐍 Python
 
@@ -62,39 +61,36 @@ I believe the best way to learn technology is to **build projects and experiment
 * Small Python projects
 
 </td>
-
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🌐 Web Development
 
-* HTML
-* CSS
-* Website structure
+* HTML fundamentals
+* CSS fundamentals
+* Website layouts
 * CSS styling
 * Responsive design basics
 * Small web projects
 
 </td>
-
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔐 Cybersecurity
 
 * Cybersecurity fundamentals
 * Networking basics
 * IP addresses & ports
-* Common network concepts
+* TCP/IP basics
+* DNS & HTTP basics
 * Linux fundamentals
 * Basic security concepts
 * Ethical hacking fundamentals
 
 </td>
-
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🤖 AI & AI Agents
 
@@ -103,38 +99,37 @@ I believe the best way to learn technology is to **build projects and experiment
 * AI agent basics
 * How AI agents work
 * APIs & AI tools
+* Basic prompting
 * Simple AI experiments
 
 </td>
-
 </tr>
 
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### 💻 Development
 
-### 💻 Programming
-
+* Git & GitHub
 * C / C++
 * Programming fundamentals
-* Data structures basics
 * Problem solving
-* Algorithms basics
+* APIs
+* Databases
 
 </td>
-
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🗄️ Databases
 
 * SQL
 * DBMS fundamentals
-* Queries
+* Basic queries
 * Tables & relationships
 * Oracle basics
+* Database concepts
 
 </td>
-
 </tr>
 </table>
 
@@ -150,25 +145,20 @@ I believe the best way to learn technology is to **build projects and experiment
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++">
 </p>
 
-### Web Development
+### Web
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3">
 </p>
 
-### Cybersecurity & Linux
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="Bash">
-</p>
-
-### Tools & Technologies
+### Tools & Platforms
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="Bash">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle">
 </p>
 
@@ -187,7 +177,7 @@ I believe the best way to learn technology is to **build projects and experiment
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=steve-mxt&repo=project-demo&hide_border=true" alt="project-demo">
 </a>
 
-One of my beginner Python projects where I'm learning how to turn programming concepts into working applications.
+A beginner Python project and one of my first steps into building projects with Python.
 
 **Tech:** Python
 
@@ -201,7 +191,7 @@ One of my beginner Python projects where I'm learning how to turn programming co
 
 ### 🌐 HTML & CSS Mini Project
 
-Currently building small websites while learning the basics of web development.
+I'm currently learning web development by creating small websites using HTML and CSS.
 
 Exploring:
 
@@ -209,7 +199,7 @@ Exploring:
 * 🎨 CSS styling
 * 📱 Responsive layouts
 * 🖥️ Landing pages
-* ✨ Simple UI designs
+* ✨ Beginner UI designs
 
 **Tech:** HTML • CSS
 
@@ -223,15 +213,16 @@ Exploring:
 
 ### 🔐 Cybersecurity Learning
 
-Learning the fundamentals of cybersecurity through practice and experimentation.
+I'm learning the fundamentals of cybersecurity through practice and experimentation.
 
 Currently exploring:
 
-* 🌐 Networking
-* 🐧 Linux
+* 🌐 Networking basics
+* 📡 IP addresses, ports & protocols
+* 🐧 Linux fundamentals
 * 🔒 Security fundamentals
-* 🔑 Authentication concepts
-* 🛡️ Basic ethical hacking concepts
+* 🌍 DNS & HTTP basics
+* 🛡️ Ethical hacking fundamentals
 
 **Focus:** Learning the fundamentals
 
@@ -239,15 +230,16 @@ Currently exploring:
 
 <td width="50%" valign="top">
 
-### 🤖 AI Learning Projects
+### 🤖 AI & AI Agents Learning
 
-Exploring the basics of AI and AI agents.
+I'm exploring the basics of Artificial Intelligence and AI agents.
 
 Currently learning:
 
 * 🧠 AI fundamentals
-* 🤖 AI agents
+* 🤖 AI agent basics
 * 🔗 APIs
+* 💬 LLM basics
 * ⚙️ AI tools
 * 💡 Simple AI-powered ideas
 
@@ -264,42 +256,73 @@ Currently learning:
 
 ### 🐍 Python
 
-Building small programs and projects to improve my programming skills.
+Building small programs and projects to improve my programming skills and understand how real applications work.
 
 ### 🌐 Web Development
 
-Learning HTML and CSS by creating simple websites and UI designs.
+Learning HTML and CSS by creating small websites, layouts and simple user interfaces.
 
 ### 🔐 Cybersecurity
 
-Understanding networking, Linux and the basic concepts behind cybersecurity.
+Understanding the basics of cybersecurity, networking, Linux and how common security concepts work.
+
+### 🌐 Networking
+
+Learning the fundamentals of IP addresses, ports, protocols, DNS, HTTP and basic network communication.
 
 ### 🤖 Artificial Intelligence
 
-Learning how AI works and exploring the basics of AI agents and LLM-powered applications.
+Learning the basics of AI, LLMs and how AI agents can use tools, APIs and instructions to complete tasks.
 
 ### 🗄️ Databases
 
 Practicing SQL and learning how databases are structured and used in applications.
 
+### 🐙 Git & GitHub
+
+Learning version control, repositories, commits and how to manage my projects using Git and GitHub.
+
 ---
 
 # 🎯 Learning Goals
 
-My current goals are to:
+My goal is to build a strong foundation in programming and gradually move towards real-world development.
 
-* Improve my Python skills
-* Build more HTML & CSS projects
+### 💻 Development
+
+* Become more confident with Python
+* Build more useful Python projects
+* Improve my HTML & CSS skills
 * Learn JavaScript
-* Understand APIs better
-* Learn networking fundamentals
+* Build responsive websites
+* Understand APIs and how applications communicate
+
+### 🔐 Cybersecurity
+
+* Build strong networking fundamentals
 * Improve my Linux skills
-* Learn cybersecurity fundamentals
-* Understand the basics of ethical hacking
-* Learn more about AI agents
+* Understand common security concepts
+* Learn more about ethical hacking
+* Practice cybersecurity through safe and legal environments
+
+### 🤖 AI
+
+* Understand AI and LLM fundamentals
+* Learn how AI agents work
+* Understand how agents use tools and APIs
 * Build simple AI-powered projects
-* Improve SQL and database skills
-* Build more real-world projects
+* Experiment with AI in my own applications
+
+### 📚 Overall
+
+* Improve problem-solving skills
+* Learn by building real projects
+* Write cleaner and better code
+* Understand the technologies I use instead of just copying code
+* Keep learning new technologies
+* Build projects that combine different skills
+
+> **Goal:** Learn the fundamentals → Build projects → Gain experience → Build bigger things. 🚀
 
 ---
 
@@ -318,6 +341,11 @@ Web Development
 
 Cybersecurity
    ├── Networking
+   │    ├── IP Addresses
+   │    ├── Ports & Protocols
+   │    ├── DNS
+   │    └── HTTP Basics
+   │
    ├── Linux
    ├── Security Fundamentals
    └── Ethical Hacking Basics
@@ -325,33 +353,49 @@ Cybersecurity
 AI
    ├── AI Fundamentals
    ├── LLM Basics
+   ├── APIs
    └── AI Agents
 
 Databases
    ├── SQL
    ├── DBMS
    └── Oracle
+
+Tools
+   ├── Git
+   └── GitHub
 ```
 
 ---
 
-# 💡 My Learning Philosophy
+# 💡 Developer Philosophy
 
-> **Don't just learn it. Build it. Break it. Fix it. Understand it.**
+> **Don't just learn the technology. Build something with it.**
 
-I'm still learning and experimenting with different technologies.
+Every project is an opportunity to understand something I didn't know yesterday.
 
-Every project helps me understand something new and improve my skills.
+I believe that even small projects can teach valuable lessons.
 
 ---
 
 # 🌟 What I Want to Build
 
-In the future, I want to build projects that combine:
+I want to gradually build projects that combine the things I'm learning:
 
 **Python + Web Development + Cybersecurity + AI**
 
-I'm interested in creating useful tools, websites and applications while continuously improving my development and problem-solving skills.
+From simple beginner projects to more useful real-world applications, my goal is to keep experimenting, learning and improving.
+
+---
+
+# 📌 Currently Working On
+
+* 🐍 Small Python projects
+* 🌐 HTML & CSS websites
+* 🔐 Learning networking & cybersecurity basics
+* 🐧 Practicing Linux fundamentals
+* 🤖 Exploring basic AI agents
+* 🗄️ Practicing SQL & DBMS
 
 ---
 
@@ -375,6 +419,6 @@ I'm interested in creating useful tools, websites and applications while continu
 
 ### ⭐ Thanks for visiting my profile!
 
-**Learning. Building. Growing. 🚀**
+**Building my skills one project at a time. 🚀**
 
 </div>
